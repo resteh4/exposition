@@ -642,9 +642,8 @@ mark,
 }
 
 .img-fluid2 {
-  /* max-width: 100%; */
+  max-width: 100%; 
   height: 500px;
-  width: 700px;
 }
 
 .img-thumbnail {
